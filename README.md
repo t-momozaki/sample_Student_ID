@@ -1,7 +1,5 @@
 sample_Student_IDの使い方
 ================
-T. Momozaki
-2024-04-02
 
 関数`sample_Student_ID`は学生の学籍番号ベクトル (`Student_ID`) と人数
 (`No`, 1以上学生数以下の整数) を引数とする関数で,
