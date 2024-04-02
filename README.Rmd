@@ -2,7 +2,7 @@
 title: "sample_Student_IDの使い方"
 author: "T. Momozaki"
 date: "2024-04-02"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
