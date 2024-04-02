@@ -27,6 +27,7 @@ Student_ID <- read.csv(file='ファイル名.csv')
 今回は5人の学生を選びたいとしました (`No=5`).
 
 ``` r
+source("sample_Student_ID-function.R")
 sample_Student_ID(Student_ID, No=5)
 ```
 
