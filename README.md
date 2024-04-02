@@ -27,7 +27,7 @@ Student_ID <- read.csv(file='ファイル名.csv')
 今回は5人の学生を選びたいとしました (`No=5`).
 
 ``` r
-random_Student_ID(Student_ID, No=5)
+sample_Student_ID(Student_ID, No=5)
 ```
 
     ## [1] "6324036" "6324048" "6324052" "6324076" "6324091"
